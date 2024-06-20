@@ -1,7 +1,7 @@
 # 來源 -- https://github.com/newcodevelop/micrograd/blob/master/micrograd/engine.py
 # 有參考老師 https://github.com/ccc112b/py2gpt/blob/master/03b-MacroGrad/macrograd/engine.py
 # 推薦網頁https://r23456999.medium.com/%E4%BD%95%E8%AC%82-cross-entropy-%E4%BA%A4%E5%8F%89%E7%86%B5-b6d4cef9189d
-# 參考嚴偉誠同學
+# 參考111010529顏瑋成同學所完成
 import numpy as np
 
 class Tensor:
