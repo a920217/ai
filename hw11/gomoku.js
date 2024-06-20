@@ -1,4 +1,4 @@
-// 修改自 https://github.com/Ligoon/Gomoku-AI
+// 修改自 https://github.com/Ligoon/Gomoku-AI 參考111010529顏瑋成同學所完成
 
 
 canvas = document.getElementById("cvs");
