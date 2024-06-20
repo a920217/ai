@@ -1,3 +1,4 @@
+#參考111010529顏瑋成同學所完成
 import gd as gd;
 from micrograd.engine import Value
 
