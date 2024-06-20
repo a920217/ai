@@ -1,4 +1,5 @@
 # 參考 https://python.langchain.com/v0.1/docs/get_started/introduction
+#參考111010529顏瑋成同學所完成
 import os
 from langchain import hub
 from langchain.agents import AgentExecutor, create_react_agent
